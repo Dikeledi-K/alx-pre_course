@@ -1,2 +1,1 @@
-My first readme
-my software engineering
+Back end programmer
